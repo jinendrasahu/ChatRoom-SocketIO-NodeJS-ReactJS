@@ -1,0 +1,27 @@
+.avatar{
+    height: 40px;
+    width: auto;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(66, 208, 255);
+    border-radius: 50%;
+    padding: 0.5em;
+    margin-right: 1em;
+}
+.Message{
+    display: flex;
+    flex-direction: row;
+    background-color: lightblue;
+    width: 30em;
+    height: auto;
+    border-radius: 0.5em;
+    padding: 0.2em;
+    margin: 1em;
+}
+.name{
+    font-weight: bold;
+}
+.block{
+    display:inline-block;
+    width: 100%;
+    height: auto;
+}
